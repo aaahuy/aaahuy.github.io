@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin: 0;
+	padding: 0;
+}
+.banner
+{
+	height: 100vh;
+}
+.menu1
+{
+	background-color:#A6B784;
+	height: 200px;
+	padding:0 !important;
+}
+.nametext
+{
+	padding-top: 15px;
+	font-family: main;
+	letter-spacing: 5px;
+	color: #42421C;
+	font-size: 40px;
+}
+.nametex1
+{
+	padding-top: -10px;
+	font-size: 15px;
+	font-family: main;
+	color: white;
+}
+@font-face
+{
+	font-family: main;
+	src: url(../font/DelaGothicOne-Regular.ttf);
+}
+
